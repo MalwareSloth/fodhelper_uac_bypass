@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "powershell_version",
+    "winreg_version",
+    "winapi_version"
+]
